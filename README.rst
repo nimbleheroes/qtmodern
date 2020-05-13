@@ -1,3 +1,7 @@
+# NEXODUS FORK TO ENSURE PIXEL PERFECTTION
+
+
+
 ========
 qtmodern
 ========
